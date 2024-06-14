@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vanshsharma3330](https://github.com/Vanshsharma3330)
 
-- 💬 Ask me about **JavaScript| React | GSAP | Tailwind | Bootstrap C/C++ | Python**
+- 💬 Ask me about **JavaScript | React | GSAP | Tailwind | Bootstrap C/C++ | Python**
 
 - 📫 How to reach me **vanshsharma2786@gmail.com**
 
