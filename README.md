@@ -1,15 +1,15 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate **Full Stack Developer** and **DSA Enthusiast** who loves solving real-world problems and building scalable web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshsharma3330&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsharma3330" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Solving DSA problems on LeetCode also exploring system design, cloud computing, and performance optimization.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vanshsharma3330](https://github.com/Vanshsharma3330)
 
-- 💬 Ask me about **JavaScript | React | GSAP | Tailwind | Bootstrap C/C++ | Python**
+- 💬 Ask me about **Java | C/C++ | Python | JavaScript | ReactJs | MongoDB | MySQL | ExpressJs | NodeJs | GSAP | Tailwind | Bootstrap**
 
 - 📫 How to reach me **vanshsharma2786@gmail.com**
 
